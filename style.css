@@ -1,0 +1,15 @@
+@media screen and (max-width:768px) {
+    .all-center {
+        text-align: center;
+    }
+
+    .perfect-img {
+        width: 80px !important;
+    }
+}
+
+@media screen and (max-width:588px) {
+    .footer {
+        text-align: center;
+    }
+}
